@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Apr 08 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update Dockerfile ([@IntellibridgeAIdev](https://github.com/IntellibridgeAIdev))
+
+#### Authors: 1
+
+- [@IntellibridgeAIdev](https://github.com/IntellibridgeAIdev)
+
+---
+
 # v0.0.1 (Mon Apr 08 2024)
 
 :tada: This release contains work from a new contributor! :tada:
