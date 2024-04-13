@@ -1,3 +1,15 @@
+# v0.0.5 (Sat Apr 13 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Add files via upload ([@IntellibridgeAIdev](https://github.com/IntellibridgeAIdev))
+
+#### Authors: 1
+
+- [@IntellibridgeAIdev](https://github.com/IntellibridgeAIdev)
+
+---
+
 # v0.0.4 (Sat Apr 13 2024)
 
 #### 🐛 Bug Fix
