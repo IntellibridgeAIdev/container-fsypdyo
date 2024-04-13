@@ -1,3 +1,15 @@
+# v0.0.6 (Sat Apr 13 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Edit to Dockerfile ([@IntellibridgeAIdev](https://github.com/IntellibridgeAIdev))
+
+#### Authors: 1
+
+- [@IntellibridgeAIdev](https://github.com/IntellibridgeAIdev)
+
+---
+
 # v0.0.5 (Sat Apr 13 2024)
 
 #### ⚠️ Pushed to `main`
