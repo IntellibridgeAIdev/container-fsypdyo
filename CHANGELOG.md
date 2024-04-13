@@ -1,3 +1,15 @@
+# v0.0.4 (Sat Apr 13 2024)
+
+#### 🐛 Bug Fix
+
+- Delete src/Dockerfile [#1](https://github.com/IntellibridgeAIdev/container-fsypdyo/pull/1) ([@IntellibridgeAIdev](https://github.com/IntellibridgeAIdev))
+
+#### Authors: 1
+
+- [@IntellibridgeAIdev](https://github.com/IntellibridgeAIdev)
+
+---
+
 # v0.0.3 (Sat Apr 13 2024)
 
 #### ⚠️ Pushed to `main`
